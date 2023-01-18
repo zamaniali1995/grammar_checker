@@ -6,7 +6,7 @@ Example usage: use the following command in the current directory.
 
 ## Data
 
-The assignment's train data can be found in [data/train.tsv](data/train.tsv).
+The train data can be found in [data/train.tsv](data/train.tsv).
 
 ## Tasks
 ### Part 1
@@ -17,3 +17,6 @@ The assignment's train data can be found in [data/train.tsv](data/train.tsv).
 
 ### Part 3
 - [x] Evaluation and error analysis
+
+## Results
+![Classification Report](https://github.com/zamaniali1995/grammar_checker/blob/master/classification_report.png)
